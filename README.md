@@ -1,100 +1,76 @@
-<div align="center">
-  <img src="https://github.com/asif12018/asif12018/blob/main/1.png" alt="Logo" width="120" />
-  
-  <h1>Hi 👋, I'm Md Asif Sheikh</h1>
-  <h3>Full-Stack Web Developer | Next.js, Node.js, Prisma & PostgreSQL</h3>
-  
-  <p align="center">
-    Bridging the gap between electrical engineering and scalable software architecture. I specialize in building highly performant, full-stack web applications with modern JavaScript frameworks and robust relational databases.
-  </p>
+<h1 align="center">Hi there, I'm Md Asif Sheikh 👋</h1>
+<h3 align="center">Full-Stack Developer | Next.js & PostgreSQL Enthusiast</h3>
 
-  <img alt="coding" width="350" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-</div>
+<p align="center">
+  <em>Bridging analytical engineering with elegant, scalable software architecture.</em>
+</p>
 
-<br/>
-
-<div align="center">
+<p align="center">
   <a href="https://komarev.com/ghpvc/?username=asif12018&label=Profile%20views&color=0e75b6&style=flat">
     <img src="https://komarev.com/ghpvc/?username=asif12018&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
   </a>
-</div>
+</p>
 
----
+<hr/>
 
-### 🚀 About Me
+### 👨‍💻 About Me
 
-- 💻 **Current Focus:** Developing advanced backend architectures and database schemas using Next.js, Express, and Prisma. 
-- 🎓 **Background:** Electrical and Electronic Engineering, bringing strong analytical and problem-solving skills to software development (including research in MOSFET simulations).
-- 🌌 **What I'm Building:** Currently crafting a space-themed, interactive 3D developer portfolio and scaling robust web platforms.
-- 📫 **Reach me at:** [asif.request@gmail.com](mailto:asif.request@gmail.com)
-- 📄 **Resume:** [View my detailed experiences](https://drive.google.com/file/d/17XL1g3Qb2QwpzC42b5YvJNd8ub35Isf7/view?usp=sharing)
+- 🔭 **Currently Building:** A space-themed 3D developer portfolio and scaling **Cinehub** (a dynamic movie rating portal).
+- 🌱 **Tech Focus:** Advanced backend architectures, database schemas, and custom routing setups with **Express, Node.js, Prisma, and PostgreSQL**.
+- ⚡ **Background:** Merging analytical rigor from Electrical & Electronic Engineering with modern web development.
+- 🎨 **Beyond Coding:** Exploring cinematic and studio photography, painting, and tracking my latest Japanese manga reads.
 
----
+<br/>
 
-### 🛠️ Technical Arsenal
-
-**Frontend Development**  
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,html,css,js" alt="Frontend Stack" />
-</a>
-
-**Backend & Databases**  
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,prisma,mongodb,firebase" alt="Backend Stack" />
-</a>
-
-**Tools & Architecture**  
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" alt="Tools" />
-</a>
-
----
-
-### 📂 Featured Projects
-
-#### 🎬 Cinehub
-**Tech Stack:** Next.js, Tailwind CSS, TMDB API Integration
-> A dynamic movie and television series rating portal. Features seamless API integration to fetch real-time media data, robust user review systems, and optimized dynamic routing.
-> <br/>🔗 [Live Demo](#) | 💻 [Repository](#)
-
-#### 🍔 FoodHub
-**Tech Stack:** React, Node.js, Express, PostgreSQL, Prisma
-> A comprehensive food delivery web application. Engineered custom database schemas to handle inventory, implemented advanced cuisine filtering, and developed complex price-range logic for user searches.
-> <br/>🔗 [Live Demo](#) | 💻 [Repository](#)
-
----
-
-### 📊 GitHub Activity
+### 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asif12018&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <p><strong>Frontend</strong></p>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,js,ts,html,css,tailwind&theme=dark" alt="Frontend Stack" />
+  
+  <br/><br/>
+  
+  <p><strong>Backend & Databases</strong></p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,prisma,mongodb,firebase&theme=dark" alt="Backend Stack" />
+  
+  <br/><br/>
+  
+  <p><strong>Tools</strong></p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma&theme=dark" alt="Tools" />
 </div>
 
 <br/>
 
-### 🤝 Let's Connect
+### 🚀 Featured Projects
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/mdasifsheikh-2000diu/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="45" height="45" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="mailto:asif.request@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" width="45" height="45" alt="Gmail" />
-  </a>
+| Project | Description | Tech Stack | Links |
+| :--- | :--- | :--- | :--- |
+| **🎬 Cinehub** | A dynamic media rating portal featuring real-time TMDB API integration, optimized dynamic routing, and robust user review systems. | Next.js, Tailwind CSS, TMDB API | [Repo](#) \| [Live](#) |
+| **🍔 FoodHub** | Comprehensive food delivery app engineered with custom database schemas, advanced cuisine filtering, and complex price-range logic. | React, Node.js, PostgreSQL, Prisma | [Repo](#) \| [Live](#) |
+
+*(Note: Don't forget to update the `#` links above with your actual repository and live deployment URLs)*
+
+<br/>
+
+### 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=asif12018&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="Asif's GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asif12018&theme=radical&hide_border=true&background=0D1117" alt="Asif's GitHub Streak" width="48%" />
 </div>
 
-<!--
-**asifsheik555-arch/asifsheik555-arch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
 
-Here are some ideas to get you started:
+### 🤝 Connect With Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <a href="https://www.linkedin.com/in/mdasifsheikh-2000diu/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:asif.request@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://drive.google.com/file/d/17XL1g3Qb2QwpzC42b5YvJNd8ub35Isf7/view?usp=sharing">
+    <img src="https://img.shields.io/badge/Resume-%232D2926.svg?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume"/>
+  </a>
+</div>
