@@ -113,7 +113,7 @@ Full-stack delivery app with custom DB schemas, cuisine filtering, price-range l
 </tr>
 </table>
 
-> 🔗 Replace the `#` placeholder links above with your actual live demo and repository URLs.
+
 
 ---
 
