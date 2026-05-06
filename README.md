@@ -74,8 +74,9 @@ I am a **Full-Stack Developer** with a background in Electrical & Electronic Eng
 
 ### 📊 GitHub Analytics
 
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=asif12018&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Asif's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=asif12018&show_icons=true&theme=tokyonight&hide_border=true" alt="Asif's GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=asif12018&theme=tokyonight&hide_border=true" alt="Asif's GitHub Streak" width="48%" />
   <br/>
   <br/>
