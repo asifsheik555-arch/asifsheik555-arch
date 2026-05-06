@@ -14,12 +14,13 @@
 
 ### 👨‍💻 About Me
 
-I am a **Full-Stack Developer** with a background in Electrical & Electronic Engineering. I specialize in building highly performant web applications using modern JavaScript frameworks and robust relational databases. 
 
-- 🚀 **Currently Building:** A space-themed 3D interactive developer portfolio and **Cinehub**, a dynamic movie rating portal.
-- ⚡ **Core Focus:** Advanced backend architectures, database schema design, and precise routing control (favoring `proxy.ts` over standard middleware conventions).
-- 🎓 **Background:** EEE Student (MOSFET simulation research via COMSOL) turning complex logic into seamless code.
-- 🎨 **Interests:** Cinematic studio photography, painting, and basketball.
+I am a **Full-Stack Developer** dedicated to building scalable, high-performance web applications. By merging the analytical problem-solving skills from my Electrical Engineering background with modern software development, I focus on engineering solutions that are both elegant and architecturally sound.
+
+- 🎯 **Career Objective:** Actively seeking opportunities to join a collaborative engineering team where I can contribute to high-impact projects and tackle complex architectural challenges.
+- 🌱 **Currently Learning & Mastering:** Deepening my expertise in **enterprise-level Next.js architectures**, advanced PostgreSQL database optimizations, and seamless third-party API integrations.
+- ⚡ **Engineering Focus:** Writing clean, scalable backend logic, designing robust relational databases (via Prisma), and implementing precise routing controls for secure APIs.
+- 🤝 **Work Philosophy:** I believe in continuous learning, writing maintainable code, and turning complex business logic into intuitive user experiences.
 
 ---
 
