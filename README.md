@@ -1,4 +1,5 @@
 <div align="center">
+![logo](https://github.com/asif12018/asif12018/blob/main/1.png)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Md+Asif+Sheikh+%F0%9F%91%8B;Full-Stack+Web+Developer+%F0%9F%92%BB;Next.js+%7C+Node.js+%7C+PostgreSQL)](https://git.io/typing-svg)
 
