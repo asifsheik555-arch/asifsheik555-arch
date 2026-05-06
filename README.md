@@ -51,30 +51,25 @@ I build scalable web applications from the database up, with a strong focus on *
 
 ### 🛠️ Tech Stack
 
-**Frontend**
+<div align="center">
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+#### Frontend
 
-**Backend & Database**
+<img src="https://skillicons.dev/icons?i=nextjs,react,typescript,javascript,tailwind,html,css,bootstrap&theme=dark&perline=8" />
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+<br/><br/>
 
-**Auth & Tooling**
+#### Backend & Database
 
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=json-web-tokens&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgresql,prisma,mongodb,firebase,redis,graphql&theme=dark&perline=8" />
+
+<br/><br/>
+
+#### Auth, Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=git,github,vercel,linux,vscode,postman,docker,figma&theme=dark&perline=8" />
+
+</div>
 
 ---
 
@@ -88,9 +83,7 @@ I build scalable web applications from the database up, with a strong focus on *
 
 Real-time **TMDB API** integration with dynamic routing, user reviews, search, filtering, and paginated results.
 
-![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![TMDB](https://img.shields.io/badge/TMDB%20API-01B4E4?style=flat-square&logo=themoviedatabase&logoColor=white)
+<img src="https://skillicons.dev/icons?i=nextjs,tailwind,vercel&theme=dark" />
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-▶-2563eb?style=flat-square)](#)
 [![Source Code](https://img.shields.io/badge/Source%20Code-⌨-1e293b?style=flat-square)](#)
@@ -102,9 +95,7 @@ Real-time **TMDB API** integration with dynamic routing, user reviews, search, f
 
 Full-stack delivery app with custom DB schemas, cuisine filtering, price-range logic, and JWT auth with role-based access control.
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+<img src="https://skillicons.dev/icons?i=nodejs,postgresql,prisma&theme=dark" />
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-▶-2563eb?style=flat-square)](#)
 [![Source Code](https://img.shields.io/badge/Source%20Code-⌨-1e293b?style=flat-square)](#)
@@ -113,7 +104,7 @@ Full-stack delivery app with custom DB schemas, cuisine filtering, price-range l
 </tr>
 </table>
 
-
+> 🔗 Replace the `#` placeholder links above with your actual live demo and repository URLs.
 
 ---
 
